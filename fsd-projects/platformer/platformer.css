@@ -8,12 +8,14 @@ body {
 }
 
 canvas {
-  background-color: lightblue;
-  margin: 20px;
-  border-radius: 15px;
-  border: 5px solid rgba(118, 0, 233, 0.375);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcArSNsf9iQE9Tzbx1epUke0vOZImNC6oDuQJNGTpZu6DNEp-ZUhdaGtW5:https://as1.ftcdn.net/v2/jpg/01/18/87/40/1000_F_118874087_414nX1auMugFwRwK79je2oO26rftihGd.jpg&s=10);
+  background-size: cover;
 }
 
 img {
   display: none;
+}
+
+text{
+  color: gray;
 }
