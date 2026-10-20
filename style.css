@@ -176,3 +176,8 @@ h2, h3 {
 img {
   width:150px;
 }
+
+h4 {
+  color: white;
+  font-size: 1.2rem;
+}
