@@ -44,12 +44,12 @@ if (randomNum === 1) {
   makeDot(75, 25, dieID); // top right
 }
   else if (randomNum === 6) {
-    makeDot(25, 25, dieID)
-    makeDot(75, 50, dieID)
-    makeDot(75, 25, dieID)
-    makeDot(25, 75, dieID)
-    makeDot(25, 50, dieID)
-    makeDot(75, 75, dieID)
+  makeDot(25, 25, dieID)
+  makeDot(75, 50, dieID)
+  makeDot(75, 25, dieID)
+  makeDot(25, 75, dieID)
+  makeDot(25, 50, dieID)
+  makeDot(75, 75, dieID)
 }
 }
 else if (dieID === "#die2"){
@@ -75,12 +75,12 @@ else if (dieID === "#die2"){
   makeDot(70, 20, dieID); // top right
 }
   else if (randomNum === 6) {
-    makeDot(20, 20, dieID)
-    makeDot(70, 45, dieID)
-    makeDot(70, 20, dieID)
-    makeDot(20, 70, dieID)
-    makeDot(20, 45, dieID)
-    makeDot(70, 70, dieID)
+  makeDot(20, 20, dieID)
+  makeDot(70, 45, dieID)
+  makeDot(70, 20, dieID)
+  makeDot(20, 70, dieID)
+  makeDot(20, 45, dieID)
+  makeDot(70, 70, dieID)
 }
 }
 }
